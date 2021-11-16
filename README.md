@@ -10,4 +10,4 @@ Repository for CS 305 Module 05.
 We want to get a webpage with cool CSS styles online using this repo.
 
 ## Licensing
-At this time, we will not be requiring any licenses. This will be 
+At this time, we will not be requiring any licenses. This file will be modified if this changes in the near future.
