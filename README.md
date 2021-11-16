@@ -2,8 +2,8 @@
 Repository for CS 305 Module 05.
 
 ## Collaborators
-- Asa Henry (github.com/Num0Programmer)
-- Kyler Conant (github.com/kylerc150)
+- [Asa Henry](github.com/Num0Programmer)
+- [Kyler Conant](github.com/kylerc150)
   - Kyler will also be forking and creating a pull request for this project.
 
 # Purpose
