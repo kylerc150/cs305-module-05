@@ -10,6 +10,11 @@ Repository for CS 305 Module 05.
 ## Purpose
 We want to get a webpage with cool CSS styles online using this repo.
 
+### Rotating Images - Asa Henry
+I plan to create a webpage for the website which puts an image on the screen,
+and, as the user moves their mouse over the image, the image will be rotated around
+a central point to move that spot on the image back from the cursor.
+
 ## Licensing
 This project is licensed with [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
